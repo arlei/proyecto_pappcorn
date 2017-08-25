@@ -1,4 +1,4 @@
-# proyecto_prueba
+# proyecto_pappcorn
 Proyecto prueba para pappcorn
 proyecto desarrollado en servidor apache
   paquete wamp 3.0.6(apache 2.4.23 / PHP 5.6.25 / MySql 5.7.14)
